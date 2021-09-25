@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ll3macorn
 - 👀 I’m interested in Minecraft and coding in python, javascript or html!
 - 🌱 I’m currently learning advanced coding skills/languages!
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m currently working for Snaildos!
 - 📫 How to reach me ll3ma@snaildos.com!
 
 <!---
