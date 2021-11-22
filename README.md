@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ll3macorn
 - 👀 I’m interested in Minecraft, Keyboards, QMK and coding in python, javascript or html!
 - 🌱 I’m currently learning advanced coding skills/languages!
-- 💞️ I’m currently working for Snaildos!
+- 💞️ I’m currently working for SnailDOS!
 - 📫 How to reach me ll3ma@snaildos.com!
 
 <!---
